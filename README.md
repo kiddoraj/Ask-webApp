@@ -51,7 +51,7 @@ In the about section, discover the inspiration behind the ASK project:
 
 ## Deployment
 
-Explore ASK by visiting the deployed application: [Explore ASK](link-to-deployed-app)
+Explore ASK by visiting the deployed application: [Explore ASK](https://github.com/JThungu/ASK.git)
 
 ## Next Steps
 
